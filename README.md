@@ -6,15 +6,15 @@ To write a C# program for a pascal's triangle.
 
 ## Algorithm:
 
- Step1:create a class
+ Step1: create a class
 
- Step2:Give the input values
+ Step2: Give the input values
 
- Step3:use nested for loop
+ Step3: use nested for loop
 
- Step4:Display the output
+ Step4: Display the output
 
- Step5:End the program
+ Step5: End the program
 
 ## Program:
 
