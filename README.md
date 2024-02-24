@@ -14,7 +14,7 @@ To write a C# program for a pascal's triangle.
 
  Step4: Display the output
 
- Step5: End the program
+ Step5: End the program.
 
 ## Program:
 
